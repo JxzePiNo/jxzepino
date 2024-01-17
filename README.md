@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi I'm Iacopo 👋
 
-<!--
-**JxzePiNo/jxzepino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ✨ _Softwere Developer Students_ ✨ with the dream to be in a <b>BIG TECH</b>.
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://github.com/jxzepino">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jxzepino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jxzepino&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
