@@ -1,7 +1,5 @@
 ### Hi I'm Iacopo 👋
 
-I'm a ✨ _Softwere Developer Students_ ✨ with the dream to be in a <b>BIG TECH</b>.
-
 <p align="center">
 <a href="https://github.com/jxzepino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jxzepino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
